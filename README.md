@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center">
-  <img alt="versão 1 do projeto" title="#RocketNews" src="https://i.imgur.com/xWq0wWf.png">
+  <img alt="versão 1 do projeto" title="HBO Max Redesign Web App" src="https://i.imgur.com/xWq0wWf.png">
 </p>  
 
 ### 💻 Sobre o desafio
