@@ -19,4 +19,5 @@ Projeto foi desenvolvido com base no layout disponibilizado pelo Bathri akash.
 
 #### ✅ Projeto 
 
+- [Projeto Figma](https://www.figma.com/file/2A51gQJCk5V6LxcIh2en0b/HBO-Max-Redesign-Web-App-(Community)?type=design&node-id=2-405&t=O6WPg4Dej1gwKZ4B-0)
 - [Deploy](https://felipepinheiroo.github.io/HBO-Max-Redesign-Web-App/)
